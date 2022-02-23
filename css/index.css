@@ -217,6 +217,7 @@ div#graph{
 }
 
 .curriculo img{
+    width: 65%;
     border: 4px solid #21243D;
     border-radius: 15px;
 }
